@@ -7,7 +7,7 @@ app = FastAPI(
     description="Proyecto que demuestra el uso de middleware personalizado y CORS",
     version="1.0.0"
 )
-
+            
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"], 
