@@ -210,7 +210,7 @@ proyecto-cors/
 
 ## 👨‍💻 Autor
 
-[Tu Nombre]
+Sebastian Alpizar
 
 ## 📄 Licencia
 
